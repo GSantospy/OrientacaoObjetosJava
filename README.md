@@ -3,7 +3,7 @@ Este repositório contém um projeto de Java desenvolvido durante a live de Comp
 O projeto exemplifica conceitos de Orientação a Objetos em Java, com classes básicas como `Pessoa`, `Funcionario` e `Gerente`. O código demonstra a criação e manipulação de objetos, herança e polimorfismo.
 - `Pessoa`: Classe base que contém atributos básicos como nome e idade.
 - `Funcionario`: Herda de `Pessoa` e adiciona o atributo `salario`, com métodos para aumentar o salário.
-- `Gerente`: Hera de `Funcionario` e adiciona o atributo `bonus`. com um método para calcular e exibir o bônus.
+- `Gerente`: Herda de `Funcionario` e adiciona o atributo `bonus`. com um método para calcular e exibir o bônus.
 
 ## Recursos Necessários
 Caso queira testar online, utilize o Replit.
